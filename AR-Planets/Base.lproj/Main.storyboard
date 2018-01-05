@@ -24,10 +24,13 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="X6c-aC-RTi" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="fwG-og-rZq"/>
-                            <constraint firstAttribute="bottom" secondItem="X6c-aC-RTi" secondAttribute="bottom" id="oed-8m-Kbk"/>
-                            <constraint firstItem="X6c-aC-RTi" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="uyY-9e-Duo"/>
-                            <constraint firstItem="X6c-aC-RTi" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="vxc-Bg-i9X"/>
+                            <constraint firstItem="X6c-aC-RTi" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="9Vn-n2-SDL"/>
+                            <constraint firstAttribute="bottom" secondItem="X6c-aC-RTi" secondAttribute="bottom" id="9cc-m5-IyL"/>
+                            <constraint firstAttribute="bottom" secondItem="X6c-aC-RTi" secondAttribute="bottom" id="GOb-JZ-BTm"/>
+                            <constraint firstItem="X6c-aC-RTi" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="IY4-12-tBA"/>
+                            <constraint firstAttribute="trailing" secondItem="X6c-aC-RTi" secondAttribute="trailing" id="opf-qj-5LM"/>
+                            <constraint firstItem="X6c-aC-RTi" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="tOA-CT-nTz"/>
+                            <constraint firstItem="X6c-aC-RTi" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="xLS-Od-kT2"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
@@ -37,7 +40,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="117.59999999999999" y="118.96551724137932"/>
+            <point key="canvasLocation" x="116" y="117.48768472906404"/>
         </scene>
     </scenes>
 </document>
